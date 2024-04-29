@@ -1,0 +1,13 @@
+{
+    "title": "MISO - Ejercicio 03 - C",
+    "size": {
+        "w": 320,
+        "h": 180
+    },
+    "bg_color": {
+        "r": 25,
+        "g": 25,
+        "b": 25
+    },
+    "framerate": 60
+}

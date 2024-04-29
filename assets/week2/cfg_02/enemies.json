@@ -1,0 +1,28 @@
+{
+    "SmallA": {
+        "size": {
+            "x": 10,
+            "y": 10
+        },
+        "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+        },
+        "velocity_min": 25,
+        "velocity_max": 26
+    },
+    "SmallB": {
+        "size": {
+            "x": 10,
+            "y": 10
+        },
+        "color": {
+            "r": 255,
+            "g": 100,
+            "b": 255
+        },
+        "velocity_min": 25,
+        "velocity_max": 26
+    }
+}

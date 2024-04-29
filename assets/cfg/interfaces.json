@@ -1,0 +1,47 @@
+{
+  "how_to_play_caption": {
+    "font": "assets/fnt/PressStart2P.ttf",
+    "size": 8,
+    "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+    },
+    "text": "Controles:\nFlechas\nClick izquierdo disparar\nClick derecho escudo"
+  },
+  "pause_caption": {
+    "font": "assets/fnt/PressStart2P.ttf",
+    "size": 20,
+    "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+    },
+    "text": "Pausado"
+  },
+  "ultimate_power_caption": {
+    "font": "assets/fnt/PressStart2P.ttf",
+    "size": 8,
+    "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255
+    },
+    "text": "Especial"
+  },
+  "counter_ultimate_power_caption": {
+    "font": "assets/fnt/PressStart2P.ttf",
+    "size": 8,
+    "color": {
+        "r": 129,
+        "g": 242,
+        "b": 60
+    },
+    "color_error": {
+        "r": 255,
+        "g": 0,
+        "b": 0
+    },
+    "text": "100%"
+  }
+}

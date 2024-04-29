@@ -1,0 +1,43 @@
+{
+    "player_spawn": {
+        "position": {
+            "x": 180,
+            "y": 90
+        },
+        "max_bullets": 1
+    },
+    "enemy_spawn_events": [
+        {
+            "time": 0,
+            "enemy_type": "SmallA",
+            "position": {
+                "x": 50,
+                "y": 50
+            }
+        },
+        {
+            "time": 0,
+            "enemy_type": "SmallA",
+            "position": {
+                "x": 270,
+                "y": 50
+            }
+        },
+        {
+            "time": 3,
+            "enemy_type": "SmallB",
+            "position": {
+                "x": 130,
+                "y": 270
+            }
+        },
+        {
+            "time": 3,
+            "enemy_type": "SmallB",
+            "position": {
+                "x": 50,
+                "y": 130
+            }
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+pygame-ce
+esper
+pygbag
+pyinstaller

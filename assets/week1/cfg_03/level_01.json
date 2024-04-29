@@ -1,0 +1,100 @@
+{
+    "enemy_spawn_events": [
+        {
+            "time": 0.1,
+            "enemy_type": "SA",
+            "position": {
+                "x": 5,
+                "y": 5
+            }
+        },
+        {
+            "time": 0.1,
+            "enemy_type": "SA",
+            "position": {
+                "x": 10,
+                "y": 10
+            }
+        },
+        {
+            "time": 0.1,
+            "enemy_type": "SA",
+            "position": {
+                "x": 15,
+                "y": 15
+            }
+        },
+        {
+            "time": 0.1,
+            "enemy_type": "SA",
+            "position": {
+                "x": 20,
+                "y": 20
+            }
+        },
+        {
+            "time": 0.1,
+            "enemy_type": "SA",
+            "position": {
+                "x": 30,
+                "y": 30
+            }
+        },
+        {
+            "time": 0.1,
+            "enemy_type": "SA",
+            "position": {
+                "x": 40,
+                "y": 40
+            }
+        },
+        {
+            "time": 1,
+            "enemy_type": "SB",
+            "position": {
+                "x": 45,
+                "y": 5
+            }
+        },
+        {
+            "time": 1,
+            "enemy_type": "SB",
+            "position": {
+                "x": 40,
+                "y": 10
+            }
+        },
+        {
+            "time": 1,
+            "enemy_type": "SB",
+            "position": {
+                "x": 35,
+                "y": 15
+            }
+        },
+        {
+            "time": 1,
+            "enemy_type": "SB",
+            "position": {
+                "x": 30,
+                "y": 20
+            }
+        },
+        {
+            "time": 1,
+            "enemy_type": "SB",
+            "position": {
+                "x": 25,
+                "y": 15
+            }
+        },
+        {
+            "time": 1,
+            "enemy_type": "SB",
+            "position": {
+                "x": 20,
+                "y": 10
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "enemy_spawn_events": [
+        {
+            "time": 3.0,
+            "enemy_type": "TypeA",
+            "position": {
+                "x": 50,
+                "y": 50
+            }
+        },
+        {
+            "time": 6.0,
+            "enemy_type": "TypeB",
+            "position": {
+                "x": 500,
+                "y": 200
+            }
+        },
+        {
+            "time": 9.0,
+            "enemy_type": "TypeC",
+            "position": {
+                "x": 200,
+                "y": 300
+            }
+        },
+        {
+            "time": 12.0,
+            "enemy_type": "TypeD",
+            "position": {
+                "x": 600,
+                "y": 50
+            }
+        },
+        {
+            "time": 14.0,
+            "enemy_type": "TypeA",
+            "position": {
+                "x": 90,
+                "y": 180
+            }
+        },
+        {
+            "time": 16.0,
+            "enemy_type": "TypeB",
+            "position": {
+                "x": 200,
+                "y": 200
+            }
+        },
+        {
+            "time": 18.0,
+            "enemy_type": "TypeC",
+            "position": {
+                "x": 240,
+                "y": 90
+            }
+        },
+        {
+            "time": 20.0,
+            "enemy_type": "TypeD",
+            "position": {
+                "x": 540,
+                "y": 260
+            }
+        }
+    ]
+}

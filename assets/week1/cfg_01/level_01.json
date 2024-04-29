@@ -1,0 +1,28 @@
+{
+    "enemy_spawn_events": [
+        {
+            "time": 0,
+            "enemy_type": "TypeA",
+            "position": {
+                "x": 50,
+                "y": 50
+            }
+        },
+        {
+            "time": 0,
+            "enemy_type": "TypeB",
+            "position": {
+                "x": 500,
+                "y": 200
+            }
+        },
+        {
+            "time": 0,
+            "enemy_type": "TypeC",
+            "position": {
+                "x": 200,
+                "y": 300
+            }
+        }
+    ]
+}
